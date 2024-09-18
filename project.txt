@@ -1,4 +1,5 @@
 Feature 1
+feature 2
 
 major bug-fix
 
